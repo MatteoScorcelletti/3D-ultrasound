@@ -1,2 +1,2 @@
 # 3D-ultrasound
-The work that hasbeen done by Freddie in sheffield
+The work that has been done by Freddie in Sheffield
